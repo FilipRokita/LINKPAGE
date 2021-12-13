@@ -1,0 +1,5 @@
+author = "Filip Rokita"
+description = "Website with my links"
+fontcolor = "white"
+itembackgroundcolor = "#1a1a1a"
+backgroundcolor = "white"
