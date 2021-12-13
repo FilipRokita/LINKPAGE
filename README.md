@@ -1,7 +1,6 @@
 # LINKPAGE
 A tool that creates a link page for you! All you have to do is enter in a simple console script what your website should look like and what links you want to display. This means that you can create your own website without any knowledge. It is very useful for social media character limits.<br/>
 </br>
-<h2><a href="https://filiprokita.github.io/LINKPAGE/">EXAMPLE LINKPAGE</a></h2>
 <img src="LINKPAGE.png"/>
 
 # Why would I want to use it?
