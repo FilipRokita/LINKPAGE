@@ -9,7 +9,7 @@ In today's world, almost all of us use social media. We all know the limitations
 # How do I use it?
 1. Put the ``LINKPAGE.py`` in the directory you want your website to be.
 2. Run the script
-3. If you are using it for the first time, select that you want to create new link page configuration. (if you had used it in the past, you can also load configuration from settings.py file)
+3. If you are using it for the first time, select that you want to create new link page configuration. (if you had used it in the past, you can also load configuration from ``settings.py`` file)
 4. Input your name
 5. Input description of your link page
 6. Input color you want your font to be e.g. red, black, #ffffff, #1a1a1a
